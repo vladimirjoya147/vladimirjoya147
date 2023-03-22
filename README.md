@@ -43,7 +43,9 @@
 
 <p align="center">
 
-<a href=""><img alt="gmail" src="https://img.shields.io/badge/Gmail-vladimirjoya148%40gmail.com-red"></a>
+[![General badge](https://img.shields.io/badge/Movil-%2B51%20926409774-blue)](https://wa.me/51926409774)
+
+<a href="mailto:vladimirjoya148@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-vladimirjoya148%40gmail.com-red"></a>
 
 <a href="https://www.linkedin.com/in/vladimir-joya-rojas-019607258/"><img alt="Email" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
