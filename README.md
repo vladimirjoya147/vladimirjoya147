@@ -8,7 +8,7 @@
 
 - ✍️ &nbsp; Soy un apasionado del desarrollo de software y busco una oportunidad para iniciar mi carrera como desarrollador.
 
-- 🎓 &nbsp; Estudiante ingenieria de sistemas (5to ciclo) y estudiante del programa Oracle Next Education.
+- 🎓 &nbsp; Estudiante Computacion Informatica -6to ciclo  (ultimo) y estudiante del programa Oracle Next Education.
 
 - 🌱 &nbsp; Me gustaria seguir aprendiendo sobre diferentes tecnologías. 
 
